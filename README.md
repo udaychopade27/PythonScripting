@@ -18,7 +18,7 @@ print("Hello, world!")
 Variables are used to store data.
 
 ```python
-name = "Alice"
+name = "Uday"
 age = 25
 ```
 
