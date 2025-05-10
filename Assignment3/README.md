@@ -1,4 +1,4 @@
-# 🐍 Python Beginner Lesson 4 – Functions
+# 🐍 Python Beginner Lesson 3 – Functions
 
 In Lesson 3, we learned how to write and use **functions** to make our code more organized and reusable.
 
