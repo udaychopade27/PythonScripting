@@ -1,4 +1,4 @@
-# 🐍 Python Beginner Lesson 3 – Loops
+# 🐍 Python Beginner Lesson 2 – Loops
 
 Welcome back!  
 In Lesson 2, we learned how to use **loops** in Python to repeat actions automatically.
